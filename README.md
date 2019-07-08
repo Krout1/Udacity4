@@ -28,8 +28,8 @@ Q2. Are there any correlations of the knowlede of programming languages, e.g. do
 The correlation matrix already gives the answer, if and yes where developers have clusters of skills. The basic results are:
 - In general, there are no big correlations. This means, that there are no big cluster of "if a developfer knows language 1, then he knows language 2".
 - There are only 2 meaningful correlations between
--- C and C++, having around 50 % of the people knowing both of the languages and
--- in terms of the often in web development used languages JavaScript, PHP and SQL. Anyway, they just overlap by about 30 %. 
+- C and C++, having around 50 % of the people knowing both of the languages and
+- in terms of the often in web development used languages JavaScript, PHP and SQL. Anyway, they just overlap by about 30 %. 
 
 Q3. How the correlation distribution of programming languages differ in Germany in contrast to the overall survey results?
 
