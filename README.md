@@ -3,7 +3,7 @@
 ## Motivation
 IT develops more an more different programming languages for a lot of different use cases. Using my data analytics skills, I want to know more about that topic. There for, I will use the data of Stack Overflow's developer survey data from 2017, to answer some questions.
 
-## Labrary use:
+## Library use:
 
 pandas - data wrangling
 numpy - data wrangling
@@ -13,9 +13,6 @@ sklearn - data analytics
 ## Files 
 
 ```
-├── data	
-  ├── survey_results_public.csv.gz		-- survey result data file
-  └── survey_results_schema.csv			-- survey schema file	
 ├── README.md						-- this readme file
 └── Survey_Analytics.ipynb				-- jupter nootbook file for data wrangling and data visualization
 
@@ -39,5 +36,5 @@ Q3. How the correlation distribution of programming languages differ in Germany 
 One the first look, the correlation of developing languages know-how differs not much in Germany to the rest of the world. But, having a deeper, more specific look into the differences
 
 # Acknowledgment
-I would also like to thank StackOverflow to share the survey data set and Udacity for their greate Data Scientist class.
+I would also like to thank StackOverflow to share the survey data set (https://www.kaggle.com/stackoverflow/so-survey-2017) and Udacity for their greate Data Scientist class.
 
