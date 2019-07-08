@@ -1,16 +1,24 @@
 # Stack Overflow Data - 2017 Survey
 
-## Motivation
+--------------------------------------
+1. [Motivation](#motivation)
+2. [Library](#library)
+3. [Files](#files)
+4. [Summary](#summary)
+5. [Acknowledgment](#acknowledgment)
+6. [Licensing](#licensing)
+
+## Motivation <a name="motivation"></a>
 IT develops more an more different programming languages for a lot of different use cases. Using my data analytics skills, I want to know more about that topic. There for, I will use the data of Stack Overflow's developer survey data from 2017, to answer some questions.
 
-## Library use:
+## Library: <a name="library"></a>
 
 pandas - data wrangling
 numpy - data wrangling
 matplotlib - data visualization
 sklearn - data analytics
 
-## Files 
+## Files <a name="files"></a>
 
 ```
 ├── README.md						-- this readme file
@@ -18,7 +26,7 @@ sklearn - data analytics
 
 ```
 
-## Summary
+## Summary <a name="summary"></a>
 Q1. Having a lot of IT developed in the US, what are the most commonly known languages used by professionals?
 
 It looks like JavaScript and SQL ist most commony known by US based professional developers. In addition, it looks like very basic languages close to HW programming like C & C++ are not that commonly knwon. Furthermore, R - an data analytics language, looks like it is really only known by experts.
@@ -35,6 +43,9 @@ Q3. How the correlation distribution of programming languages differ in Germany 
 
 One the first look, the correlation of developing languages know-how differs not much in Germany to the rest of the world. But, having a deeper, more specific look into the differences
 
-# Acknowledgment
+# Acknowledgment <a name="acknowledgment"></a>
 I would also like to thank StackOverflow to share the survey data set (https://www.kaggle.com/stackoverflow/so-survey-2017) and Udacity for their greate Data Scientist class.
+
+## 5. Licensing <a name="licensing"></a>
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
 
