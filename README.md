@@ -9,7 +9,7 @@
 6. [Licensing](#licensing)
 
 ## Motivation <a name="motivation"></a>
-IT develops more an more different programming languages for a lot of different use cases. Using my data analytics skills, I want to know more about that topic. There for, I will use the data of Stack Overflow's developer survey data from 2017, to answer some questions.
+IT develops more an more different programming languages for a lot of different use cases. Using my data analytics skills, I want to know more about that topic. There for, I will use the data of Stack Overflow's developer survey data from 2017, to answer some questions. A Summary of the analysis can be found here: https://medium.com/@stefan.krotil/there-is-no-clustering-in-knowledge-d97c83dfc946
 
 ## Library: <a name="library"></a>
 
